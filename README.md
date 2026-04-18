@@ -78,4 +78,4 @@ python smart_file_organizer.py demo_files --dry-run
 
 ## License
 
-MIT - do whatever you want with it
+MIT - you can do whatever you want with it
